@@ -21,20 +21,33 @@ Our goals here are to:
 - Data source: The state’s PrepMod system.
 - Developed by: [Muncipality of Anchorage’s Innovation Team](https://medium.com/anchorage-i-team/about-us-574f8ac4d839)
 - Source repo: https://github.com/MunicipalityOfAnchorage/prepmod-scrape
+- Social Media: -
 
 
 ### California
 
 **[VaccinateCA](https://www.vaccinateca.com/)** lists sites with and without available vaccines by region and county, and zip code.
 - Data source: Manual volunteer legwork and phone banking.
-- Developed by: [Ad-hoc community team](https://www.vaccinateca.com/about-us)
+- Developed by: [Ad-hoc community group](https://www.vaccinateca.com/about-us)
+- Social Media: [Twitter @ca_covid](https://twitter.com/ca_covid)
 
 
 ### New York
 
 **[TurboVax](https://www.turbovax.info/)** lists sites and availablity in **New York City**.
-- Data source: NYC Vaccine Hub, NYC Health & Hospitals, NYS Vaccination Centers
+- Data source: Scraping NYC Vaccine Hub, NYC Health & Hospitals, NYS Vaccination Centers
 - Developed by: [Huge Ma](https://hugema.com)
+- Social Media: [Twitter @turbovax](https://twitter.com/turbovax)
+
+**[NYC Vaccine List](https://nycvaccinelist.com/)** lists covers **New York City**.
+- Data source: Scraping (no full list published, but at least includes New York State Department of Health, Vaccinepod, and Statcare) and *possibly* phone banking (but needs confirmation).
+- Developed by: [Ad-hoc community group](https://nycvaccinelist.com/about)
+- Social Media: [Twitter @ny_covid](https://twitter.com/ny_covid)
+
+**[NYC Health COVID-19 vaccine appointment availability](https://paulschreiber.github.io/nyc-vaccine-appointments/) charts out availability over time in **New York City**.
+- Data Source: Scraping Vaccinepod
+- Source Repo: https://github.com/paulschreiber/nyc-vaccine-appointments/
+- Social Media: -
 
 
 ## Thanks and Inspiration
