@@ -44,7 +44,7 @@ Our goals here are to:
 - Developed by: [Ad-hoc community group](https://nycvaccinelist.com/about)
 - Social Media: [Twitter @ny_covid](https://twitter.com/ny_covid)
 
-**[NYC Health COVID-19 vaccine appointment availability](https://paulschreiber.github.io/nyc-vaccine-appointments/) charts out availability over time in **New York City**.
+**[NYC Health COVID-19 vaccine appointment availability](https://paulschreiber.github.io/nyc-vaccine-appointments/)** charts out availability over time in **New York City**.
 - Data Source: Scraping Vaccinepod
 - Source Repo: https://github.com/paulschreiber/nyc-vaccine-appointments/
 - Social Media: -
