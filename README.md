@@ -30,6 +30,7 @@ Our goals here are to:
 - Data source: Manual volunteer legwork and phone banking.
 - Developed by: [Ad-hoc community group](https://www.vaccinateca.com/about-us)
 - Social Media: [Twitter @ca_covid](https://twitter.com/ca_covid)
+- Source Repo: -
 
 
 ### Massachusetts
@@ -41,17 +42,26 @@ Our goals here are to:
 - Source Repo: https://github.com/codeforboston/vaccinatema
 
 
+### New Jersey
+**[VaccinateNJ](https://vaccinatenj.com/)** shows a spreadsheet of what clinics have vaccines are available.
+- Data source: Manual volunteer legwork and phone banking.
+- Developed by: [Ad-hoc community group](https://vaccinatenj.com/FAQ)
+- Social Media: [Twitter @nj_covid](https://twitter.com/nj_covid)
+- Source Repo: -
+
 ### New York
 
 **[TurboVax](https://www.turbovax.info/)** lists sites and availablity in **New York City**.
 - Data source: Scraping NYC Vaccine Hub, NYC Health & Hospitals, NYS Vaccination Centers
 - Developed by: [Huge Ma](https://hugema.com)
 - Social Media: [Twitter @turbovax](https://twitter.com/turbovax)
+- Source Repo: -
 
 **[NYC Vaccine List](https://nycvaccinelist.com/)** lists covers **New York City**.
 - Data source: Scraping (no full list published, but at least includes New York State Department of Health, Vaccinepod, and Statcare) and *possibly* phone banking (but needs confirmation).
 - Developed by: [Ad-hoc community group](https://nycvaccinelist.com/about)
 - Social Media: [Twitter @ny_covid](https://twitter.com/ny_covid)
+- Source Repo: -
 
 **[NYC Health COVID-19 vaccine appointment availability](https://paulschreiber.github.io/nyc-vaccine-appointments/)** charts out availability over time in **New York City**.
 - Data Source: Scraping Vaccinepod
