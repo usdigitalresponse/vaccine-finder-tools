@@ -47,7 +47,7 @@ Our goals here are to:
 - Data source: Manual volunteer legwork and phone banking.
 - Developed by: [Ad-hoc community group](https://vaccinatenj.com/FAQ)
 - Social Media: [Twitter @nj_covid](https://twitter.com/nj_covid)
-- Source Repo: -
+- Source Repo: https://github.com/LWprogramming/COVID-19-Vaccine-Eligibility-Explainer-NJ
 
 ### New York
 
