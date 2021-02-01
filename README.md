@@ -32,6 +32,15 @@ Our goals here are to:
 - Social Media: [Twitter @ca_covid](https://twitter.com/ca_covid)
 
 
+### Massachusetts
+
+**[VaccinateMA](https://vaccinatema.com/)** lists sites with available vaccines and allows filtering by zip code.
+- Data source: Manual volunteer legwork and phone banking.
+- Developed by: [Ad-hoc community group](https://vaccinatema.com/FAQ)
+- Social Media: -
+- Source Repo: https://github.com/codeforboston/vaccinatema
+
+
 ### New York
 
 **[TurboVax](https://www.turbovax.info/)** lists sites and availablity in **New York City**.
