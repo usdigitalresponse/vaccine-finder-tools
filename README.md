@@ -41,6 +41,14 @@ Our goals here are to:
 - Social Media: -
 - Source Repo: https://github.com/codeforboston/vaccinatema
 
+**[MA Covid Vaccine Appointments](https://www.macovidvaccines.com/)** lists appointment availability in Massachussetts.
+- Data source: Scraping (both gov and private web sites)
+- Developed by: [Olivia Adams](https://www.oliviaadams.dev/)
+- Source Repo:
+    - Web site: https://github.com/livgust/macovidvaccines.com
+    - Scrapers: https://github.com/livgust/covid-vaccine-scrapers
+- Social Media: -
+
 
 ### New Jersey
 **[VaccinateNJ](https://vaccinatenj.com/)** shows a spreadsheet of what clinics have vaccines are available.
