@@ -68,6 +68,13 @@ Our goals here are to:
 - Source Repo: https://github.com/paulschreiber/nyc-vaccine-appointments/
 - Social Media: -
 
+## General Projects
+
+**[COVID-19 Vaccine Tracker](https://github.com/jwoglom/covid19-vaccine-tracker)** is a self-hosted, configurable system for sending notifications when there are vaccine sign-up slots available. It contains several backends which get data from public vaccination sign-up websites, primarily in the Massachusetts area, but is also extensible and can be configured to scrape any website.
+- Data Source: Scraping (currently supports Curative, RxTouch, CVS Pharmacy, and MAImmunizations websites)
+- Developed By: [James Woglom](https://github.com/jwoglom)
+- Source Repo: https://github.com/jwoglom/covid19-vaccine-tracker
+
 
 ## Thanks and Inspiration
 
