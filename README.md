@@ -49,6 +49,7 @@ Our goals here are to:
 - Social Media: [Twitter @nj_covid](https://twitter.com/nj_covid)
 - Source Repo: https://github.com/LWprogramming/COVID-19-Vaccine-Eligibility-Explainer-NJ
 
+
 ### New York
 
 **[TurboVax](https://www.turbovax.info/)** lists sites and availablity in **New York City**.
@@ -57,7 +58,7 @@ Our goals here are to:
 - Social Media: [Twitter @turbovax](https://twitter.com/turbovax)
 - Source Repo: -
 
-**[NYC Vaccine List](https://nycvaccinelist.com/)** lists covers **New York City**.
+**[NYC Vaccine List](https://nycvaccinelist.com/)** covers **New York City**.
 - Data source: Scraping (no full list published, but at least includes New York State Department of Health, Vaccinepod, and Statcare) and *possibly* phone banking (but needs confirmation).
 - Developed by: [Ad-hoc community group](https://nycvaccinelist.com/about)
 - Social Media: [Twitter @ny_covid](https://twitter.com/ny_covid)
@@ -67,6 +68,16 @@ Our goals here are to:
 - Data Source: Scraping Vaccinepod
 - Source Repo: https://github.com/paulschreiber/nyc-vaccine-appointments/
 - Social Media: -
+
+
+### Texas
+
+**[Covid 19 Vaccine TX](https://www.covid19vaccinetx.com/)** lists sites and appointment availability or waitlist availability throughout Texas. It also includes notifications and crowdsourced information about vaccination experiences at individual locations.
+- Data Source: Crowdsourced
+- Developed by: [Carri Craver](https://github.com/carricraver)
+- Source Repo: -
+- Social Media: -
+
 
 ## General Projects
 
