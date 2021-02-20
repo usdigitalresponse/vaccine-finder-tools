@@ -98,6 +98,7 @@ Our goals here are to:
 - Data Sources: scraping, aggregating already-scraped results from other sites, [GISCorps vaccination site data](https://covid-19-giscorps.hub.arcgis.com/) from [https://findcovidtesting.com/](https://findcovidtesting.com/).
 - Source Repo: https://github.com/VacFind
 
+
 ## Thanks and Inspiration
 
 This project is inspired by others who have led the way:
