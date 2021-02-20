@@ -41,6 +41,13 @@ Our goals here are to:
 - Source Repo: -
 
 
+### Indiana
+
+**[IndyVax](https://indyvax.com/)** lists sites with available appointments in the near future across the entire state.
+- Data source: Scraping the [state appointment portal](https://vaccine.coronavirus.in.gov/).
+- Developed by: [A shy individual](mailto:contact@indyvax.com)
+
+
 ### Massachusetts
 
 **[VaccinateMA](https://vaccinatema.com/)** lists sites with available vaccines and allows filtering by zip code.
@@ -59,6 +66,7 @@ Our goals here are to:
 
 
 ### New Jersey
+
 **[VaccinateNJ](https://vaccinatenj.com/)** shows a spreadsheet of what clinics have vaccines are available.
 - Data source: Manual volunteer legwork and phone banking.
 - Developed by: [Ad-hoc community group](https://vaccinatenj.com/FAQ)
