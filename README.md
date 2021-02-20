@@ -103,6 +103,13 @@ Our goals here are to:
 - Social Media: -
 
 
+### Washington state
+**[CovidWA](https://www.covidwa.com/)** lists sites with and without availability across the entire state.
+- Data Source: A bevy of scrapers
+- Developed by: A bunch of volunteers
+- Social Media: https://www.facebook.com/WACovidVaccineFinder
+
+
 ## General Projects
 
 **[COVID-19 Vaccine Tracker](https://github.com/jwoglom/covid19-vaccine-tracker)** is a self-hosted, configurable system for sending notifications when there are vaccine sign-up slots available. It contains several backends which get data from public vaccination sign-up websites, primarily in the Massachusetts area, but is also extensible and can be configured to scrape any website.
