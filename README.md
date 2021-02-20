@@ -94,6 +94,10 @@ Our goals here are to:
 - Developed By: [James Woglom](https://github.com/jwoglom)
 - Source Repo: https://github.com/jwoglom/covid19-vaccine-tracker
 
+**[VacFind](https://vacfind.org)** is working to create an open, nationwide database of COVID-19 Vaccine availability data, build an open-source user-friendly portal to allow easy access, and bring together a community of developers working on COVID response projects to facilitate resource sharing and improve efficiency and project re-use.
+- Data Sources: scraping, aggregating already-scraped results from other sites, [GISCorps vaccination site data](https://covid-19-giscorps.hub.arcgis.com/) from [https://findcovidtesting.com/](https://findcovidtesting.com/).
+- Source Repo: https://github.com/VacFind
+
 
 ## Thanks and Inspiration
 
