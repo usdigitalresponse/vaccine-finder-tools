@@ -18,10 +18,10 @@ Our goals here are to:
 ### Alaska
 
 **[anchoragecovidvaccine.org](https://anchoragecovidvaccine.org/)** lists available appointments in Alaska.
-- Data source: The state’s PrepMod system.
+- Data source: The state’s PrepMod system and Anchorage's Visit Health vaccine provider via JSON endpoint.
 - Developed by: [Muncipality of Anchorage’s Innovation Team](https://medium.com/anchorage-i-team/about-us-574f8ac4d839)
 - Source repo: https://github.com/MunicipalityOfAnchorage/prepmod-scrape
-- Social Media: -
+- Social Media: [Twitter @ANCInnovation](https://twitter.com/ANCInnovation)
 
 
 ### California
