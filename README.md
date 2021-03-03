@@ -33,6 +33,14 @@ Our goals here are to:
 - Source Repo: -
 
 
+### Illinois
+
+**[ILVaccine](https://www.ilvaccine.org)** lists location, eligibility and availablity for the COVID-19 vaccine in the Chicagoland area.
+- Data source: A combination of scraping and manual updates by volunteers.
+- Social Media: [Twitter @ILVaccine](https://twitter.com/ILVaccine)
+- Source Repo: -
+
+
 ### Massachusetts
 
 **[VaccinateMA](https://vaccinatema.com/)** lists sites with available vaccines and allows filtering by zip code.
