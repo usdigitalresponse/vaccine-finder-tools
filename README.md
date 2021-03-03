@@ -111,8 +111,8 @@ Our goals here are to:
 
 This project is inspired by others who have led the way:
 
-- @vykster’s [Civic Tech Events List](https://github.com/compilerla/civic-tech-events)
-- @codeforamerica’s [Civic Tech Patterns](https://github.com/codeforamerica/civic-tech-patterns)
+- [@vykster](https://github.com/vykster)’s [Civic Tech Events List](https://github.com/compilerla/civic-tech-events)
+- [@codeforamerica](https://github.com/codeforamerica)’s [Civic Tech Patterns](https://github.com/codeforamerica/civic-tech-patterns)
 - [Awesome Lists](https://github.com/topics/awesome-lists)
 
 
