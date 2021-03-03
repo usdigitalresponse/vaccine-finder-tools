@@ -103,7 +103,8 @@ Our goals here are to:
 - Social Media: -
 
 
-### Washington state
+### Washington State
+
 **[CovidWA](https://www.covidwa.com/)** lists sites with and without availability across the entire state.
 - Data Source: A bevy of scrapers
 - Developed by: A bunch of volunteers
