@@ -35,7 +35,7 @@ Our goals here are to:
 
 ### Illinois
 
-**[ILVaccine](https://www.ilvaccine.org)** lists location, eligibility and availablity for the COVID-19 vaccine in the Chicagoland area.
+**[ILVaccine](https://www.ilvaccine.org)** lists locations, eligibility and availablity for the COVID-19 vaccine across Illinois.
 - Data source: A combination of scraping and manual updates by volunteers.
 - Social Media: [Twitter @ILVaccine](https://twitter.com/ILVaccine)
 - Source Repo: -
