@@ -1,3 +1,5 @@
+**⚠️ This document is not maintained! ⚠️** Feel free to use it for historical purposes, but please don’t reference this for up-to-date information. Many projects have shut down, and most others eventually will. We are no longer tracking them.
+
 # COVID-19 Vaccine Finder Tools
 
 This is a list of community projects designed to help people find available COVID-19 vaccines and get appointments. Because vaccination is handled differently and implemented by different organizations across the U.S., it can be hard for people get a clear sense of where they can get vaccinated and where to sign up; these projects aim to fill that gap.
